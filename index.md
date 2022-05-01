@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Logica do GIT
 
-You can use the [editor on GitHub](https://github.com/du-rezende/ka-explicacao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+### PASSO 1
 ![Image](img/1.png)
+### PASSO 2
+![Image](img/2.png)
+### PASSO 3
+![Image](img/3.png)
+### PASSO 4
+![Image](img/4.png)
+
+
+### ERROS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
