@@ -16,7 +16,7 @@
 
 
 Olha o link pra endereço
-[ABRE OP FACE](https://www.facebook.com/)
+[Referencia legal](https://github.com/Thiago-Nascimento/referencia-git/blob/main/README.md)
 
 Pode ate manda email
 [ENVIAR EMAIL](mailto:du.rezende@gmail.com)
