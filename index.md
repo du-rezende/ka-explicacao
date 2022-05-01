@@ -1,12 +1,12 @@
 ## Logica do GIT
 
-### PASSO 1
+### EXPLICAÇÃO
 ![Image](img/1.png)
-### PASSO 2
+### PASSO 1
 ![Image](img/2.png)
-### PASSO 3
+### PASSO 2
 ![Image](img/3.png)
-### PASSO 4
+### PASSO 3
 ![Image](img/4.png)
 
 
